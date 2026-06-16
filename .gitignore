@@ -1,0 +1,6 @@
+*.zip
+*.rar
+build/
+dist/
+__pycache__/
+*.pyc

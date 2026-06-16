@@ -1,0 +1,17 @@
+ATIVIDADE PRATICA FINAL - LOGICA DE PROGRAMACAO
+
+Trabalho institucional para formacao do curso tecnico.
+
+Aluno: Joao Carlos Espinato
+Contato: +55 28999644083
+
+Conteudo entregue:
+- exercicio1.py
+- exercicio2.py
+- exercicio3.py
+- exercicio4.py
+- executaveis .exe para Windows
+- README.md
+
+Observacao:
+Os arquivos executaveis foram gerados a partir dos codigos-fonte em Python para facilitar a entrega e a execucao no Windows.
